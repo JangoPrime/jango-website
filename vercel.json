@@ -7,7 +7,7 @@
   ],
   "headers": [
     {
-      "source": "/*.html",
+      "source": "/.*\\.html$",
       "headers": [
         {
           "key": "Content-Type",
